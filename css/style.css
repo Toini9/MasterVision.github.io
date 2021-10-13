@@ -1,0 +1,39 @@
+a {
+	color: #9a9bdc;
+	-webkit-transition: all .35s;
+	-moz-transition: all .35s;
+	transition: all .35s;
+}
+
+h2
+{
+	color: #6c6dcc;
+}
+
+h3
+{
+	color: #9a9bdc;
+}
+
+h5
+{
+	color: #6c6dcc;
+}
+navbar-text
+{
+	color: #9a9bdc;	
+}
+h6
+{
+	color: #9a9bdc;		
+}
+.nav-link.disabled {
+  color: #9a9bdc;
+  pointer-events: none;
+  cursor: default;
+} 
+a[href^="tel"]::before {
+  content: "📞 ";
+}
+
+
